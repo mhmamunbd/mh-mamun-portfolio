@@ -882,14 +882,13 @@ transition: all .5s ease-in-out;
     }
 
     .client-images .client-profile img{
-      /* width: 100%;
-      float: right; */
-      /* overflow: hidden; */
-      /* clear: both; */
+      width: 100%;
+      height: auto;
       border-radius:5px 5px 5px 125px;
     }
 
     .client-logo img{
+      margin-top: -18px;
       width: 100%;
       border-radius: 20px;
     }
